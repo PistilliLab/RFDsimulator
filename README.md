@@ -11,7 +11,7 @@ For your convenience, there is a hosted mobile-friendly version of the web app a
 If you wish to run the app locally, simply install the necessary libraries. It is recommended to use a virtual environment such as conda or venv.
 
 ~~~
-pip install streamlit numpy matplotlib
+pip install -r requirements.txt
 ~~~
 
 Execute the following command from a terminal to run the webapp:
