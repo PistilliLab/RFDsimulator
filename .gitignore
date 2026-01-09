@@ -50,7 +50,7 @@ po/*~
 rsconnect/
 
 # Jupyter
-# .ipynb*
+.ipynb*
 
 # scanpy files
 *.h5ad
